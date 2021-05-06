@@ -42,7 +42,7 @@ public class AllConverter{
         convertedValue4 = 1000*value; // ton to kg
 
         if(originalMeasure.equals("KM")){
-            System.out.println(value +" KM to " + convertedValue1 + " M" );
+            System.out.println(value +" KM to " + convertedValue1 + " M" ); // it print value in M Metric
             System.out.println(value +" KM to " + convertedValue2 + " MILE" );
 
         }
