@@ -12,7 +12,7 @@ public class AllConverter{
 
     /**
      * save fromvalue in this.value
-     * @param fromValue is arg[0]
+     * @param fromValue is arg[0],javadog is important
      * @return return fromValue
      */
 
