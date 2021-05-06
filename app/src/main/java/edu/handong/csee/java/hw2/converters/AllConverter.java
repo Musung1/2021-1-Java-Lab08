@@ -34,9 +34,9 @@ public class AllConverter{
     /**
      * convert value and print out 
      */
-    public void convertAndPrintOut(){
+    public void convertAndPrintOut(){ // it convert variable
 
-        convertedValue1 = 1000*value; // km to m
+        convertedValue1 = 1000*value; // km to m 
         convertedValue2 = value/1.6; // km to mile
         convertedValue3 = 1000000*value; // ton to g
         convertedValue4 = 1000*value; // ton to kg
